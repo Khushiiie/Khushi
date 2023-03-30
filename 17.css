@@ -1,0 +1,26 @@
+#para1{
+    
+    border: 1px;
+    background-color: blue;
+    border-radius: 2px;
+    padding:5px;
+    float: left;
+ 
+}
+
+#para2{
+    
+    border: 1px;
+    border-style: dotted;
+    border-radius: 2px;
+    background-color: antiquewhite;
+    float: left;
+}
+
+#head{
+    font: bold;
+}
+
+div{
+    float:left;
+}
